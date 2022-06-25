@@ -50,7 +50,7 @@ public class Emily extends LabyModAddon {
                 new HeaderElement(ModColor.cl('a') + "Welcome to OpenInNameMC"));
         subSettings.add(
                 new ButtonElement("GitHub", () -> LabyMod.getInstance().openWebpage(
-                        "https://github.com/PrincessAkira/NameMC-1.8", false)));
+                        "https://github.com/PrincessAkira/NameMC-1.12", false)));
         subSettings.add(
                 new ButtonElement("Creator", () -> LabyMod.getInstance().openWebpage(
                         "https://laby.net/@liebesschwur", false)));
